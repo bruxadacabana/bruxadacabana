@@ -1,7 +1,7 @@
 ![Black Modern with Metalic Shape Twitter Header (1)](https://github.com/bruxa-espacial/bruxa-espacial/assets/40490759/9ed6fd5e-58aa-4108-ac89-bc2c768357c1)
 # 💫 Olá, Mundo!! 
 
-O meu nome é Jenifer, tenho 26 anos e estudo Ciências da Computação na Faculdade Uninter (1º Período). 
+O meu nome é Jenifer, tenho 29 anos e estudo Cybersegurança na Cruzeiro do Sul (1º Período). 
 
 😄 **Pronomes**: ela/dela/a
 
