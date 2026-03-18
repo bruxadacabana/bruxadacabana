@@ -5,6 +5,8 @@ O meu nome é Jenifer, tenho 29 anos e estudo Cybersegurança na Cruzeiro do Sul
 
 😄 **Pronomes**: ela/dela/a
 
+[![roadmap.sh](https://roadmap.sh/card/wide/69b6d6f633a0ad7a5752ccdf?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jen-angelo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bruxa_espacial) 
 
